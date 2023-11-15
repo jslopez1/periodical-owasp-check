@@ -61,11 +61,6 @@
         </dependency>
         <!-- messaging -->
         <dependency>
-            <groupId>com.appgate</groupId>
-            <artifactId>dtp-event_message_convention</artifactId>
-            <version>1.2.0</version>
-        </dependency>
-        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-amqp</artifactId>
         </dependency>
